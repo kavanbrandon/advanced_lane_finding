@@ -17,7 +17,6 @@ The goals / steps of this project are the following:
 * Output visual display of the lane boundaries and numerical estimation of lane curvature and vehicle position.
 
 [//]: # (Image References)
-"camera_cal/calibration_pickle.p"
 [image1]: ./camera_cal/corners_found3.jpg "Distorted"
 [image2]: ./camera_cal/corners_found4_undistorted.jpg "Undistorted Calibration"
 [image3]: ./output_images/undistorted_image_output.jpg "Undistorted Lane Image"
